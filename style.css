@@ -60,7 +60,7 @@ body {
     text-align: justify;
 }
 
-button {
+.content button {
     background-color: #3882F6;
     color: #F9FAF8;
     font-size: 18px;
@@ -136,5 +136,38 @@ img {
     text-align: right;
     font-weight: 400;
     font-style: normal;
-    font-size: 30px;
+    font-size: 28px;
+}
+
+/*start of call to action section*/
+.cta {
+    background-color: #F9FAF8;
+    padding: 80px 150px;
+}
+
+.cta-container {
+    background-color: #3882F6;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 64px 106px;
+}
+
+.cta-text {
+    color: #e5e7eb;
+}
+.cta-header {
+    font-size: 24px;
+    font-weight: bold;
+}
+.cta button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    border-style: solid;
+    border-color: #F9FAF8;
+    padding: 8px 32px;
+    border-radius: 8px;
+
 }
