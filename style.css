@@ -169,5 +169,13 @@ img {
     border-color: #F9FAF8;
     padding: 8px 32px;
     border-radius: 8px;
+}
 
+/*Footer*/
+.footer {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
+    text-align: center;
+    padding: 36px 0;
 }
